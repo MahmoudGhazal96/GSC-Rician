@@ -31,7 +31,7 @@ for ig = 1:nG
     rng('default')
     N_MC = 1e6;
     tic
-    fac    = gamma/m;
+    fac    = gamma/M;
     facs   = fac^0.5/sqrt(2);
     S      = 0;
     Term   = zeros(N_MC,1);
