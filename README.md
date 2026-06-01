@@ -11,4 +11,4 @@ Code accompanying the paper "Rare-Event Simulation of Outage Probability in GSC/
 3. `ETCvsSong.m` can be used to generate Table VIII. It contains the only method in the paper that works for arbitrary correlation structures: ETC. It is compared with an asymptotic expression derived by Song, and with naive Monte-Carlo (NMC) for viable probabilities.
 
 ## Note
-MATLAB code in this repository was edited with assistance from Claude (Anthropic) for clarity and structure.
+MATLAB code in this repository was edited with assistance from Claude and ChatGPT for clarity and structure.
